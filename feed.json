@@ -4,9 +4,9 @@
       "id": "1",
       "user": {
         "username": "shah_212",
-        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/shahprof.jpg"
+        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/shahprof.jpg"
       },
-      "postImage": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/shahpost.jpg",
+      "postImage": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/shahpost.jpg",
       "caption": "Outfit: 10/10, mental state: 🤷‍♂️",
       "likes": 120,
       "isLiked": false,
@@ -28,9 +28,9 @@
       "id": "2",
       "user": {
         "username": "emma_ishere",
-        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/emmaprof.jpg"
+        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/emmaprof.jpg"
       },
-      "postImage": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/emmapost.jpg",
+      "postImage": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/emmapost.jpg",
       "caption": "Nature’s flex 💚",
       "likes": 89,
       "isLiked": true,
@@ -47,9 +47,9 @@
       "id": "3",
       "user": {
         "username": "tomthe_explorer",
-        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/tomtheexplorerprof.jpg"
+        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/tomtheexplorerprof.jpg"
       },
-      "postImage": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/tomtheexplorer.jpg",
+      "postImage": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/tomtheexplorer.jpg",
       "caption": "Chasing sunsets, catching vibes 🌅",
       "likes": 350,
       "isLiked": false,
@@ -60,28 +60,28 @@
   "profile": {
     "id": 1,
     "username": "shah._2110",
-    "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/shahprof.jpg"
+    "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/shahprof.jpg"
   },
   "suggestions": [
     {
       "id": "1",
       "user": {
         "username": "shah",
-        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/shahprof.jpg"
+        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/shahprof.jpg"
       }
     },
     {
       "id": "2",
       "user": {
         "username": "emmaishere",
-        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/emmaprof.jpg"
+        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/emmaprof.jpg"
       }
     },
     {
       "id": "3",
       "user": {
         "username": "tomtheexplorer",
-        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/tomtheexplorerprof.jpg"
+        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/tomtheexplorerprof.jpg"
       }
     }
   ],
@@ -90,25 +90,25 @@
       "id": "1",
       "user": {
         "username": "shah",
-        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/shahprof.jpg"
+        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/shahprof.jpg"
       },
-      "storyimg": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/shahstory.jpg"
+      "storyimg": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/shahstory.jpg"
     },
     {
       "id": "2",
       "user": {
         "username": "emmaishere",
-        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/emmaprof.jpg"
+        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/emmaprof.jpg"
       },
-      "storyimg": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/emmastory.jpg"
+      "storyimg": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/emmastory.jpg"
     },
     {
       "id": "3",
       "user": {
         "username": "tomtheexplorer",
-        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/tomtheexplorerprof.jpg"
+        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/tomtheexplorerprof.jpg"
       },
-      "storyimg": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/tomstory.jpg"
+      "storyimg": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/tomstory.jpg"
     }
   ],
   "followers": [
