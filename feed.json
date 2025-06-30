@@ -1,0 +1,132 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "username": "shah_212",
+        "profilePic": "./src/assets/shahprof.jpg"
+      },
+      "postImage": "./src/assets/shahpost.jpg",
+      "caption": "Outfit: 10/10, mental state: 🤷‍♂️",
+      "likes": 120,
+      "isLiked": false,
+      "comments": [
+        {
+          "id": 101,
+          "username": "noob_gamer440",
+          "text": "Macha 🔥🔥🔥"
+        },
+        {
+          "id": 102,
+          "username": "alex23",
+          "text": "Love this shot 🔥"
+        }
+      ],
+      "time": "2 hours ago"
+    },
+    {
+      "id": "2",
+      "user": {
+        "username": "emma_ishere",
+        "profilePic": "./src/assets/emmaprof.jpg"
+      },
+      "postImage": "./src/assets/emmapost.jpg",
+      "caption": "Nature’s flex 💚",
+      "likes": 89,
+      "isLiked": true,
+      "comments": [
+        {
+          "id": 201,
+          "username": "mike89",
+          "text": "Cool place"
+        }
+      ],
+      "time": "5 hours ago"
+    },
+    {
+      "id": "3",
+      "user": {
+        "username": "tomthe_explorer",
+        "profilePic": "./src/assets/tomtheexplorerprof.jpg"
+      },
+      "postImage": "./src/assets/tomtheexplorer.jpg",
+      "caption": "Chasing sunsets, catching vibes 🌅",
+      "likes": 350,
+      "isLiked": false,
+      "comments": [],
+      "time": "1 day ago"
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "username": "shah._2110",
+    "profilePic": "./src/assets/shahprof.jpg"
+  },
+  "suggestions": [
+    {
+      "id": "1",
+      "user": {
+        "username": "shah",
+        "profilePic": "./src/assets/shahprof.jpg"
+      }
+    },
+    {
+      "id": "2",
+      "user": {
+        "username": "emmaishere",
+        "profilePic": "./src/assets/emmaprof.jpg"
+      }
+    },
+    {
+      "id": "3",
+      "user": {
+        "username": "tomtheexplorer",
+        "profilePic": "./src/assets/tomtheexplorerprof.jpg"
+      }
+    }
+  ],
+  "stories": [
+    {
+      "id": "1",
+      "user": {
+        "username": "shah",
+        "profilePic": "/src/assets/shahprof.jpg"
+      },
+      "storyimg": "/src/assets/shahstory.jpg"
+    },
+    {
+      "id": "2",
+      "user": {
+        "username": "emmaishere",
+        "profilePic": "/src/assets/emmaprof.jpg"
+      },
+      "storyimg": "/src/assets/emmastory.jpg"
+    },
+    {
+      "id": "3",
+      "user": {
+        "username": "tomtheexplorer",
+        "profilePic": "/src/assets/tomtheexplorerprof.jpg"
+      },
+      "storyimg": "/src/assets/tomstory.jpg"
+    }
+  ],
+  "followers": [
+    {
+      "id": "1",
+      "username": "shah"
+    },
+    {
+      "id": "2",
+      "username": "emmaishere"
+    },
+    {
+      "id": "3",
+      "username": "tomtheexplorer"
+    },
+    {
+      "id": "2",
+      "username": "emmaishere"
+    }
+  ]
+}
