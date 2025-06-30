@@ -4,9 +4,9 @@
       "id": "1",
       "user": {
         "username": "shah_212",
-        "profilePic": "./src/assets/shahprof.jpg"
+        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/shahprof.jpg"
       },
-      "postImage": "./src/assets/shahpost.jpg",
+      "postImage": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/shahpost.jpg",
       "caption": "Outfit: 10/10, mental state: 🤷‍♂️",
       "likes": 120,
       "isLiked": false,
@@ -28,9 +28,9 @@
       "id": "2",
       "user": {
         "username": "emma_ishere",
-        "profilePic": "./src/assets/emmaprof.jpg"
+        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/emmaprof.jpg"
       },
-      "postImage": "./src/assets/emmapost.jpg",
+      "postImage": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/emmapost.jpg",
       "caption": "Nature’s flex 💚",
       "likes": 89,
       "isLiked": true,
@@ -47,9 +47,9 @@
       "id": "3",
       "user": {
         "username": "tomthe_explorer",
-        "profilePic": "./src/assets/tomtheexplorerprof.jpg"
+        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/tomtheexplorerprof.jpg"
       },
-      "postImage": "./src/assets/tomtheexplorer.jpg",
+      "postImage": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/tomtheexplorer.jpg",
       "caption": "Chasing sunsets, catching vibes 🌅",
       "likes": 350,
       "isLiked": false,
@@ -60,28 +60,28 @@
   "profile": {
     "id": 1,
     "username": "shah._2110",
-    "profilePic": "./src/assets/shahprof.jpg"
+    "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/shahprof.jpg"
   },
   "suggestions": [
     {
       "id": "1",
       "user": {
         "username": "shah",
-        "profilePic": "./src/assets/shahprof.jpg"
+        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/shahprof.jpg"
       }
     },
     {
       "id": "2",
       "user": {
         "username": "emmaishere",
-        "profilePic": "./src/assets/emmaprof.jpg"
+        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/emmaprof.jpg"
       }
     },
     {
       "id": "3",
       "user": {
         "username": "tomtheexplorer",
-        "profilePic": "./src/assets/tomtheexplorerprof.jpg"
+        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/tomtheexplorerprof.jpg"
       }
     }
   ],
@@ -90,25 +90,25 @@
       "id": "1",
       "user": {
         "username": "shah",
-        "profilePic": "/src/assets/shahprof.jpg"
+        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/shahprof.jpg"
       },
-      "storyimg": "/src/assets/shahstory.jpg"
+      "storyimg": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/shahstory.jpg"
     },
     {
       "id": "2",
       "user": {
         "username": "emmaishere",
-        "profilePic": "/src/assets/emmaprof.jpg"
+        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/emmaprof.jpg"
       },
-      "storyimg": "/src/assets/emmastory.jpg"
+      "storyimg": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/emmastory.jpg"
     },
     {
       "id": "3",
       "user": {
         "username": "tomtheexplorer",
-        "profilePic": "/src/assets/tomtheexplorerprof.jpg"
+        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/tomtheexplorerprof.jpg"
       },
-      "storyimg": "/src/assets/tomstory.jpg"
+      "storyimg": "https://raw.githubusercontent.com/shahith2003/Insta-Images/refs/heads/main/tomstory.jpg"
     }
   ],
   "followers": [
