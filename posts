@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "user": {
+      "username": "shah_212",
+      "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/shahprof.jpg"
+    },
+    "postImage": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/shahpost.jpg",
+    "caption": "Outfit: 10/10, mental state: 🤷‍♂️",
+    "likes": 120,
+    "isLiked": false,
+    "comments": [
+      {
+        "id": 101,
+        "username": "noob_gamer440",
+        "text": "Macha 🔥🔥🔥"
+      },
+      {
+        "id": 102,
+        "username": "alex23",
+        "text": "Love this shot 🔥"
+      }
+    ],
+    "time": "2 hours ago"
+  },
+  {
+    "id": "2",
+    "user": {
+      "username": "emma_ishere",
+      "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/emmaprof.jpg"
+    },
+    "postImage": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/emmapost.jpg",
+    "caption": "Nature’s flex 💚",
+    "likes": 89,
+    "isLiked": true,
+    "comments": [
+      {
+        "id": 201,
+        "username": "mike89",
+        "text": "Cool place"
+      }
+    ],
+    "time": "5 hours ago"
+  },
+  {
+    "id": "3",
+    "user": {
+      "username": "tomthe_explorer",
+      "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/tomtheexplorerprof.jpg"
+    },
+    "postImage": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/tomtheexplorer.jpg",
+    "caption": "Chasing sunsets, catching vibes 🌅",
+    "likes": 350,
+    "isLiked": false,
+    "comments": [],
+    "time": "1 day ago"
+  }
+]
