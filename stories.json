@@ -1,0 +1,26 @@
+[
+    {
+      "id": "1",
+      "user": {
+        "username": "shah",
+        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/shahprof.jpg"
+      },
+      "storyimg": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/shahstory.jpg"
+    },
+    {
+      "id": "2",
+      "user": {
+        "username": "emmaishere",
+        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/emmaprof.jpg"
+      },
+      "storyimg": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/emmastory.jpg"
+    },
+    {
+      "id": "3",
+      "user": {
+        "username": "tomtheexplorer",
+        "profilePic": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/tomtheexplorerprof.jpg"
+      },
+      "storyimg": "https://raw.githubusercontent.com/shahith2003/Insta-Images/main/tomstory.jpg"
+    }
+  ]
